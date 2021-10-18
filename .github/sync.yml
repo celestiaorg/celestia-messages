@@ -1,0 +1,3 @@
+celestiaorg/celestia-core:
+  - source: pkg/consts/consts.go
+    dest: payment/consts/celestia_core_consts.go
